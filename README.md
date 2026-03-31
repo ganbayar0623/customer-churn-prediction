@@ -7,8 +7,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.1-green?logo=pandas)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-<!-- Энд demo GIF эсвэл скриншот оруулна -->
-<!-- ![Demo](assets/demo.gif) -->
+![Churn Distribution](assets/download (4).png)
+![Contract vs Churn](assets/download (3).png)
+![Monthly Charges and Tenure](assets/download (2).png)
+![Correlation Heatmap](assets/download.png)
+![Internet vs Churn](assets/download (1).png)
+![Model Results](assets/Screenshot%202026-03-31%20102144.png)
 
 ## 🎯 Төслийн тухай
 
